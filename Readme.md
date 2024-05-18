@@ -7,8 +7,13 @@
     
 <!-- Presentation -->
 
+> ### ✨ **Kalzin Shishuein Dev Community ⿻**
 
-  
+**- HelloWorld("print")** ![html5](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
+
+**- 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.**
+
+
   <!-- Dropdown -->
 <details>
   <summary><strong>👨‍💻 More about me</strong></summary>

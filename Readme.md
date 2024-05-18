@@ -7,7 +7,7 @@
     
 <!-- Presentation -->
 
-> ### ✨ **Kalzin Shishuein Dev Community ⿻**
+> ### ✨ **Kalzin Shishuein Community ⿻**
 
 **- Progamer Dev Junior 👨🏻‍🏭 && Developer 🧎🏻‍♂️**![html5](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 

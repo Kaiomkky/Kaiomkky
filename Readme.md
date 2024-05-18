@@ -4,7 +4,9 @@
     <summary><h1 style="display: inline-block"> Kalzin Shisuien >_  </h1></summary>
   </div>
 
-    
+    <p> 
+<br>Seja bem vindo(a) <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+</p>
 <!-- Presentation -->
 
 > ### ✨ **Kalzin Shishuein Community ⿻**
@@ -17,7 +19,6 @@
   <!-- Dropdown -->
 <details>
   <summary><strong>👨‍💻 More about me</strong></summary>
-<br>. Hi there ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <p style="font-family: Arial, sans-serif; font-weight: bold; font-size: 1.1em; color: #FFFFFF;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"><br><br>
     - 💬 <span style="font-family: Arial, sans-serif; font-weight: bold; font-size: 1.1em; color: #FFFFFF;">𝐊𝐚𝐥𝐳𝐢𝐧 𝐃𝐞𝐯 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🧎🏻‍♂️ 𝐄𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭𝐚 𝐞𝐦 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐝𝐞 𝐝𝐢𝐬𝐩𝐚𝐫𝐨 𝐏𝐚𝐫𝐚 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐞 𝐞𝐦 𝐦𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐧𝐝𝐨 𝐟𝐚𝐥𝐡𝐚𝐬 𝐞 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬</span><br><br>

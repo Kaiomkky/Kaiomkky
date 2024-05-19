@@ -20,9 +20,7 @@
 > ### ✨ **Kalzin Shishuein Community ⿻**
 
 **- Progamer Dev Junior 👨🏻‍🏭 && Developer 🧎🏻‍♂️**!
-[html5]
-
-(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[html5](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **- 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.**
 

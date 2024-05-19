@@ -33,8 +33,8 @@
   <p style="font-family: Arial, sans-serif; font-weight: bold; font-size: 1.1em; color: #FFFFFF;">
  
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"><br><br>
-    - 💬 <span style="font-family: Arial, sans-serif; font-weight: bold; font-size: 1.1em; color: #FFFFFF;">𝐊𝐚𝐥𝐳𝐢𝐧 𝐃𝐞𝐯 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🧎🏻‍♂️ 𝐄𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭𝐚 𝐞𝐦 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐝𝐞 𝐝𝐢𝐬𝐩𝐚𝐫𝐨 𝐏𝐚𝐫𝐚 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐞 𝐞𝐦 𝐦𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐧𝐝𝐨 𝐟𝐚𝐥𝐡𝐚𝐬 𝐞 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬</span><br><br>
-    - ⚡ <span style="font-family: Arial, sans-serif; font-weight: bold; font-size: 1.1em; color: #FFFFFF;">𝐈 𝐞𝐧𝐣𝐨𝐲 𝐫𝐞𝐚𝐝𝐢𝐧𝐠, 𝐰𝐡𝐞𝐭𝐡𝐞𝐫 𝐢𝐭'𝐬 𝐚 𝐠𝐨𝐨𝐝 𝐛𝐨𝐨𝐤, 𝐦𝐚𝐧𝐠𝐚, 𝐨𝐫 𝐜𝐨𝐦𝐢𝐜𝐬, 𝐚𝐬 𝐰𝐞𝐥𝐥 𝐚𝐬 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐦𝐨𝐯𝐢𝐞𝐬 𝐚𝐧𝐝 𝐩𝐥𝐚𝐲𝐢𝐧𝐠 𝐠𝐚𝐦𝐞𝐬! 𝐈 𝐛𝐞𝐥𝐢𝐞𝐯𝐞 𝐭𝐡𝐚𝐭 𝐨𝐮𝐫 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐭𝐨 𝐚 𝐦𝐨𝐫𝐞 𝐫𝐞𝐟𝐢𝐧𝐞𝐝 𝐩𝐞𝐫𝐜𝐞𝐩𝐭𝐢𝐨𝐧 𝐨𝐟 𝐭𝐡𝐢𝐧𝐠𝐬 𝐚𝐧𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠. \o/</span>
+    - 💬 <span style="font-family: Arial, sans-serif; font-weight: bold; font-size: 1.1em; color: #FFFFFF;">𝐊𝐚𝐥𝐳𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🧎🏻‍♂️ 𝐄𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭𝐚 𝐞𝐦 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚𝐬 𝐝𝐞 𝐝𝐢𝐬𝐩𝐚𝐫𝐨 𝐏𝐚𝐫𝐚 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐞 𝐞𝐦 𝐦𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐧𝐝𝐨 𝐟𝐚𝐥𝐡𝐚𝐬 𝐞 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐝𝐚𝐝𝐞𝐬</span><br><br>
+    - 💼 <span style="font-family: Arial, sans-serif; font-weight: bold; font-size: 1.1em; color: #FFFFFF;"> Especialista Em ferramentas de disparo é Engenharia Reversa e marketing digital 🍃 Tudo Pará facilitar Sua vida</span>
   </p>
 </details>
 

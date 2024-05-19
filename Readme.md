@@ -48,8 +48,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- <img src="https://tenor.com/pt-BR/view/verified-gif-5467519989537884572" width="25"> **Projetos**: Veja meus projetos mais recentes.
-
+- <img src="https://tenor.com/embed.js" width="25"> **Projetos**: Veja meus projetos mais recentes.
 
 
 <!-- GIF -->

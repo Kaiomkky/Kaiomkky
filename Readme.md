@@ -48,8 +48,6 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-![Anime Gif](https://media3.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=6c09b952p9mwu9693x94pvog61x1010ocexwjc5om33bbgeq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-- <img src="https://media.tenor.com/images/ee678fd1595f4760fa3b84d730d597a3/tenor.gif" width="25"> **Projetos**: Veja meus projetos mais recentes.
 
 
 

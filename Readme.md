@@ -52,6 +52,18 @@ Kalzinho
 
 
 
+## Projetos Em Beta ⚒️:
+
+<div style="background-color: #2f2f2f; padding: 10px; border-radius: 5px;">
+  <p style="margin: 5px 0;">
+    <img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="26" style="vertical-align: middle;"> 
+    <span style="color: #ffffff;">**Gerador de Leads**</span>
+  </p>
+  <p style="margin: 5px 0;">
+    <img src="https://media.tenor.com/ipP4Q7xYznwAAAAi/araslot-whatsapp.gif" width="30" style="vertical-align: middle;"> 
+    <span style="color: #ffffff;">**Disparador Whatsapp**</span>
+  </p>
+</div>
 
 
 <!-- GIF -->

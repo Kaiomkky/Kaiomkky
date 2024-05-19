@@ -48,10 +48,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- <img src="https://tenor.com/bWunj.gif" width="25"> **Estatísticas**: Veja minhas estatísticas do GitHub.
 
 <!-- GIF -->
 ![Anime Gif](https://media3.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=6c09b952p9mwu9693x94pvog61x1010ocexwjc5om33bbgeq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)

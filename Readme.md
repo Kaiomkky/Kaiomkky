@@ -55,7 +55,7 @@ Kalzinho
 
 <img src="https://media.tenor.com/-aSy8q70MqMAAAAi/oh-god-kenny-mccormick.gif" width="25">
 <!-- GIF -->
-![Anime Gif](https://media3.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=6c09b952p9mwu9693x94pvog61x1010ocexwjc5om33bbgeq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+[![Anime Gif](https://media3.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=6c09b952p9mwu9693x94pvog61x1010ocexwjc5om33bbgeq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 
 

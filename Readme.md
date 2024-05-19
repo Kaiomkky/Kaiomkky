@@ -51,8 +51,7 @@ Kalzinho
 <!-- Portfolio -->
 ----
 ## Projetos Em Beta ⚒️:
-<img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="25"> **Projetos**: Ferramentas De disparo 
-
+<img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="25"> **nodejs**: Gerador de Leads
 <img src="https://media.tenor.com/-aSy8q70MqMAAAAi/oh-god-kenny-mccormick.gif" width="25"> **Projetos**: Ferramentas De disparo 
 
 <!-- GIF -->

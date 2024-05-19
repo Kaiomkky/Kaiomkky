@@ -54,16 +54,14 @@ Kalzinho
 
 ## Projetos Em Beta ⚒️:
 
-<div style="background-color: #2f2f2f; padding: 10px; border-radius: 5px;">
-  <p style="margin: 5px 0;">
-    <img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="26" style="vertical-align: middle;"> 
-    <span style="color: #ffffff;">**Gerador de Leads**</span>
-  </p>
-  <p style="margin: 5px 0;">
-    <img src="https://media.tenor.com/ipP4Q7xYznwAAAAi/araslot-whatsapp.gif" width="30" style="vertical-align: middle;"> 
-    <span style="color: #ffffff;">**Disparador Whatsapp**</span>
-  </p>
-</div>
+<p align="left" style="background-color: #2f2f2f; padding: 10px; border-radius: 5px;">
+  <img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="26" style="vertical-align: middle; margin-right: 10px;"> 
+  <strong>Gerador de Leads</strong>
+</p>
+<p align="left" style="background-color: #2f2f2f; padding: 10px; border-radius: 5px;">
+  <img src="https://media.tenor.com/ipP4Q7xYznwAAAAi/araslot-whatsapp.gif" width="30" style="vertical-align: middle; margin-right: 10px;"> 
+  <strong>Disparador Whatsapp</strong>
+</p>
 
 <!-- GIF -->
 ![Anime Gif](https://media3.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=6c09b952p9mwu9693x94pvog61x1010ocexwjc5om33bbgeq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)

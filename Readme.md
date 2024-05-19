@@ -51,8 +51,9 @@ Kalzinho
 <!-- Portfolio -->
 ----
 ## Projetos Em Beta ⚒️:
-<img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="25"> **nodejs**: Gerador de Leads
-<img src="https://media.tenor.com/-aSy8q70MqMAAAAi/oh-god-kenny-mccormick.gif" width="25"> **Projetos**: Ferramentas De disparo 
+<img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="25"> **Gerador de Leads**
+
+<img src="https://media.tenor.com/-aSy8q70MqMAAAAi/oh-god-kenny-mccormick.gif" width="25"> **Disparador Whatsapp**
 
 <!-- GIF -->
 ![Anime Gif](https://media3.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=6c09b952p9mwu9693x94pvog61x1010ocexwjc5om33bbgeq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)

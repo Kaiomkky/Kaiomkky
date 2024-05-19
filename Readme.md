@@ -48,7 +48,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- <img src="https://tenor.com/bWunj.gif" width="25"> **Estatísticas**: Veja minhas estatísticas do GitHub.
+- <img src="https://media.tenor.com/images/4d1b3d9372303a72cbcf8a69d867b5f5/tenor.gif" width="25"> **Projetos**: Veja meus projetos mais recentes.
+- <img src="https://media.tenor.com/images/4d1b3d9372303a72cbcf8a69d867b5f5/tenor.gif" width="25"> **Artigos**: Leia meus artigos e tutoriais.
+- <img src="https://media.tenor.com/images/4d1b3d9372303a72cbcf8a69d867b5f5/tenor.gif" width="25"> **Contato**: Saiba como entrar em contato comigo.
+- <img src="https://media.tenor.com/images/4d1b3d9372303a72cbcf8a69d867b5f5/tenor.gif" width="25"> **Estatísticas**: Veja minhas estatísticas do GitHub.
+
 
 <!-- GIF -->
 ![Anime Gif](https://media3.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=6c09b952p9mwu9693x94pvog61x1010ocexwjc5om33bbgeq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)

@@ -47,6 +47,7 @@
 ![VariableBee GitHub stats](https://media0.giphy.com/media/FB5EOw0CaaQM0/giphy.gif?cid=6c09b952p3m4qvnr47t6rw2brj8khi4es1b6hwypx9guvjwv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 <!-- Portfolio -->
+----
 ## Portfolio:
 <img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="25"> **Projetos**: Ferramentas De disparo 
 

@@ -51,7 +51,7 @@ Kalzinho
 <!-- Portfolio -->
 ----
 ## Projetos Em Beta ⚒️:
-<img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="29"> **Gerador de Leads**
+<img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="26"> **Gerador de Leads**
 
 <img src="https://media.tenor.com/ipP4Q7xYznwAAAAi/araslot-whatsapp.gif" width="30"> **Disparador Whatsapp**
 

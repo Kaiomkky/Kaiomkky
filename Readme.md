@@ -48,7 +48,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- <img src="https://tenor.com/search/verified-stickers" width="25"> **Projetos**: Veja meus projetos mais recentes.
+- <img src="https://media.tenor.com/1ktJJbUielEAAAAi/opgamingmx.gif" width="25"> **Projetos**: Veja meus projetos mais recentes.
 
 
 <!-- GIF -->

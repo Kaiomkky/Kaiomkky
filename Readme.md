@@ -29,7 +29,7 @@
 
   <!-- Dropdown -->
 <details>
-  <summary><strong>👨‍💻 More about me</strong></summary>
+  <summary><strong>(...)</strong></summary>
   <p style="font-family: Arial, sans-serif; font-weight: bold; font-size: 1.1em; color: #FFFFFF;">
  
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"><br><br>

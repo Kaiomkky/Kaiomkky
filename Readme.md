@@ -48,7 +48,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- <img src="https://tenor.com/embed.js" width="25"> **Projetos**: Veja meus projetos mais recentes.
+- <img src="https://tenor.com/search/verified-stickers" width="25"> **Projetos**: Veja meus projetos mais recentes.
 
 
 <!-- GIF -->

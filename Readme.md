@@ -62,6 +62,8 @@ Kalzinho
   <img src="https://media.tenor.com/3MtdCRIPZUMAAAAi/whatsapp.gif" width="30" style="vertical-align: middle; margin-right: 10px;"> 
   <strong>Disparador Whatsapp</strong>
 </p>
+<img src= "https://media.tenor.com/LeDb4HArelwAAAAi/loading-betterttv.gif" width="26" style="vertical-align: middle; margin-right: 10px; ">
+<strong> ✨ Top1 em Ferramentas De Disparos </strong>
 
 <!-- GIF -->
 ![Anime Gif](https://media3.giphy.com/media/9jYtQ2fmBFYkM/giphy.gif?cid=6c09b952p9mwu9693x94pvog61x1010ocexwjc5om33bbgeq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)

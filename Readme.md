@@ -56,16 +56,16 @@ Kalzinho
 
 <p align="left" style="background-color: #2f2f2f; padding: 10px; border-radius: 5px;">
   <img src="https://media.tenor.com/KIO0sT2weC8AAAAj/check-mark.gif" width="26" style="vertical-align: middle; margin-right: 10px;"> 
-  <strong>Gerador de Leads</strong>
+  <strong> • Gerador de Leads</strong>
 </p>
 <p align="left" style="background-color: #2f2f2f; padding: 10px; border-radius: 5px;">
   <img src="https://media.tenor.com/3MtdCRIPZUMAAAAi/whatsapp.gif" width="30" style="vertical-align: middle; margin-right: 10px;"> 
-  <strong>Disparador Whatsapp</strong>
+  <strong> • Disparador Whatsapp</strong>
 </p>
 
 <span style="display: inline-flex; align-items: center;">
     <img src="https://media.tenor.com/LeDb4HArelwAAAAi/loading-betterttv.gif" width="26" style="margin-right: 10px;">
-    <strong> Dev De Ferramentas Disparos</strong>
+    <strong> • Dev De Ferramentas Disparos</strong>
 </span>
 
 <!-- GIF -->

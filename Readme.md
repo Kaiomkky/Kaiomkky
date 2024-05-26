@@ -65,7 +65,7 @@ Kalzinho
 
 <span style="display: inline-flex; align-items: center;">
     <img src="https://media.tenor.com/LeDb4HArelwAAAAi/loading-betterttv.gif" width="26" style="margin-right: 10px;">
-    <strong>✨ Dev De Ferramentas Disparos</strong>
+    <strong> Dev De Ferramentas Disparos</strong>
 </span>
 
 <!-- GIF -->
